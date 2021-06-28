@@ -1,0 +1,7 @@
+2021-06-28 09:57:02,822-INFO-getLogging.py-root-日志信息:第6条用例:module是首页搜索一键删除全部，title是输入正常参数
+2021-06-28 09:57:02,901-INFO-getLogging.py-root-日志信息:{'rtnCode': 500, 'msg': '没有你要删除的数据', 'data': None}
+2021-06-28 09:57:02,903-ERROR-getLogging.py-root-日志信息:出错原因是200 != 500
+2021-06-28 09:57:43,363-INFO-getLogging.py-root-日志信息:第6条用例:module是首页搜索一键删除全部，title是输入正常参数
+2021-06-28 09:57:43,438-INFO-getLogging.py-root-日志信息:{'rtnCode': 200, 'msg': '删除成功', 'data': None}
+2021-06-28 09:59:20,055-INFO-getLogging.py-root-日志信息:第8条用例:module是首页搜索查询全部历史记录，title是输入正常参数
+2021-06-28 09:59:20,094-INFO-getLogging.py-root-日志信息:{'timestamp': '2021-06-28T01:59:19.846+0000', 'status': 405, 'error': 'Method Not Allowed', 'message': "Request method 'POST' not supported", 'path': '/search/searchOpenid'}
