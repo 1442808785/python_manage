@@ -36,5 +36,3 @@ class TestHttpRequest(unittest.TestCase):
 
 if __name__ == '__main__':
     pass
-
-    data = {"openid":"oqK5d5Z2lD_y_0o-I_-XC4rILlWs","pagesize":10,"state":-1,"page":1}
